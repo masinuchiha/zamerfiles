@@ -1,0 +1,29 @@
+body {
+  direction: rtl;
+  background-color: #FF07BF;
+  font-family: "Cairo", sans-serif;
+}
+
+h1 {
+  margin-right: 5%;
+  margin-bottom: -5%;
+  margin-top: -1%;
+  text-shadow: 2px 2px 2px #000000;
+  color: #A9A9A9;
+}
+
+a {
+  display: block;
+  margin: 3% 40%;
+  width: 80px;
+  height: 30px;
+  padding: 12px;
+  margin-right: 35%;
+  padding-top: 20px;
+  background-color: #0018C2;
+  text-decoration: none;
+  border: 3px solid #DF0000;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-size: 14px
+}
